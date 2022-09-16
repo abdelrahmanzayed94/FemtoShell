@@ -1,8 +1,14 @@
 # FemtoShell
 
-This is a shell that echoes any command except for "exit" command.
+This is shell (3al daya2) that echoes any command except for "exit" command to exit the shell (7amada helal).
 
-example:
+command used for compilation:
+
+```
+$ gcc echoer.c -o echoer
+```
+
+run example:
 ```
 $ ./echoer 
 Betak w Matra7ak > Tslam ya raye2
